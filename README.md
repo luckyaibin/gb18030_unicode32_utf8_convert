@@ -1,0 +1,2 @@
+# gb18030_unicode32_utf8_convert
+gb18030互转unicode32，unicode32互转utf8编码（使用lua生成需要查询的数据表）
