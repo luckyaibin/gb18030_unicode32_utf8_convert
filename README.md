@@ -1,7 +1,5 @@
 # gb18030_unicode32_utf8_convert
 
-对本代码的使用没有任何限制，你可以任意复制，修改，传播
-
 gb18030互转unicode32，unicode32互转utf8编码（使用lua生成需要查询的数据表）
 
 0. 因为gbk编码转utf8只有使用其他系统的库（windows下MultiByteToWideChar\WideCharToMultiByte),或者是其他庞大的库，因此自己造一个小轮子
